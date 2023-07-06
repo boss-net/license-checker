@@ -1,6 +1,6 @@
 {
   "name": "@boss-net/license-checker",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Audit your NPM dependencies and reject any forbidden license.",
   "main": "index.js",
   "bin": {
